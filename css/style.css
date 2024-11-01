@@ -1,0 +1,24 @@
+
+.btn_search::after {
+    display: none;
+}
+header {
+    padding: 15px 0;
+}
+.menu ul li a {
+    font-family: var(--lato1);
+    color: var(--ash) !important;
+    padding: 0 15px !important;
+    text-transform: uppercase;
+}
+.btn_search{
+	border: none;
+
+}
+.btn_dd {
+    width: 350px;
+    padding: 10px 10px;
+}
+.btn_dd input {
+    border: none;
+}
